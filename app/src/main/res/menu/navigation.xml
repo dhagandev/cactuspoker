@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_buy_count"
+        android:icon="@drawable/ic_attach_money_black_24dp"
+        android:title="@string/buy_1" />
+
+    <item
+        android:id="@+id/navigation_managers"
+        android:icon="@drawable/ic_face_black_24dp"
+        android:title="@string/action_managers" />
+
+    <item
+        android:id="@+id/navigation_upgrades"
+        android:icon="@drawable/ic_arrow_upward_black_24dp"
+        android:title="@string/action_upgrades" />
+
+</menu>

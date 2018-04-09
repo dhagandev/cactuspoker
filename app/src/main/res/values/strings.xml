@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Cactus Poker</string>
+    <string name="action_home">Home</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_managers">Managers</string>
+    <string name="action_upgrades">Upgrades</string>
+
+    <string name="own_count">Own: </string>
+    <string name="earn_count">/sec</string>
+
+    <string name="buy_1">Buy 1</string>
+    <string name="buy_10">Buy 10</string>
+    <string name="buy_100">Buy 100</string>
+    <string name="buy_max">Buy Max</string>
+</resources>
